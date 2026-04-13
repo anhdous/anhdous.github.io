@@ -7,7 +7,7 @@
 locale: "en-US"            # Main language/locale of the site
 site_theme: "default"      # Theme skin used by the site
 
-title: "Anh Do | Computer Science Graduate Student   # Text shown in browser tab and SEO metadata
+title: "Anh Do | Computer Science Graduate Student"   # Text shown in browser tab and SEO metadata
 title_separator: "-"       # Separator used in page titles
 name: "Anh Do"         # Main name shown across the site
 description: "Academic portfolio and professional experience in Computer Science"  # Short site description for search engines
@@ -41,10 +41,7 @@ repository: "anhdous/anhdous.github.io"
 
   # Professional / academic links
   # Leave a field empty if it is not used.
-  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
-  github: "lijingzhu1"
-  linkedin: "www.linkedin.com/in/lijingz-19970620"
-  orcid: "https://orcid.org/0009-0002-7107-2880"
+
 
 # -------------------------
 # General behavior
