@@ -30,8 +30,7 @@ repository: "anhdous/anhdous.github.io"
 # -------------------------
 # Author profile information
 # -------------------------
-
-  author:
+author:
   avatar: "Anh_Do_Photo.JPG"    # Profile image file shown in the sidebar/profile area
   name: "Anh Do"
   bio: "Computer Science Graduate Student at University of Houston-Clear Lake."
