@@ -97,7 +97,7 @@ defaults:
       author_profile: true
 
 # -------------------------
-# Files to include / exclude
+# Files to include/exclude
 # -------------------------
 include:
   - _pages                 # Ensure files in _pages are processed and published
