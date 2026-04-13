@@ -15,10 +15,9 @@ description: "Academic portfolio and professional experience in Computer Science
 # -------------------------
 # GitHub Pages repository settings
 # -------------------------
-# For a user site, the URL should match:
+# For a user site, url should match:
 # https://yourusername.github.io
 url: "https://anhdous.github.io"
-
 # Leave baseurl empty for a user site repository named:
 # yourusername.github.io
 # Only use a baseurl for project sites.
@@ -31,7 +30,8 @@ repository: "anhdous/anhdous.github.io"
 # -------------------------
 # Author profile information
 # -------------------------
-author:
+
+  author:
   avatar: "Anh_Do_Photo.JPG"    # Profile image file shown in the sidebar/profile area
   name: "Anh Do"
   bio: "Computer Science Graduate Student at University of Houston-Clear Lake."
@@ -41,7 +41,10 @@ author:
 
   # Professional / academic links
   # Leave a field empty if it is not used.
-
+  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
+  github: "lijingzhu1"
+  linkedin: "www.linkedin.com/in/lijingz-19970620"
+  orcid: "https://orcid.org/0009-0002-7107-2880"
 
 # -------------------------
 # General behavior
@@ -97,6 +100,7 @@ defaults:
       author_profile: true
 
 # -------------------------
+# Files to include / exclude
 # -------------------------
 include:
   - _pages                 # Ensure files in _pages are processed and published
